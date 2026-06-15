@@ -4,4 +4,4 @@ P4122
 Updated through github web interface
 <p>feature branch update</p>
 
-Changing again on second account
+Changing through 2nd account
